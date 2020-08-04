@@ -1,3 +1,5 @@
+<img width="auto" src="https://github.com/Julianamcs/julianamcs/blob/3769b4363d8a49c6e481cd85b7b3af0ae9c56bd6/Img/bg.jpg">
+
 ### Hi there 👋
 
 Sou apaixonada por resolver problemas utilizando a programação.
