@@ -1,9 +1,11 @@
+<img width="auto" src="https://github.com/Julianamcs/julianamcs/blob/3769b4363d8a49c6e481cd85b7b3af0ae9c56bd6/Img/bg.jpg">
+
 ### Hi there 👋
 
 Sou apaixonada por resolver problemas utilizando a programação.
 Sou uma FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou Diponível para Contratações
+ :rocket:  &nbsp; Estou Disponível para Contratações
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos Back-end usando Java
  <br/> :blush: &nbsp; Posso te ajudar com Java, EJB, JPA, Maven, Hibernate, Spring Data/Boot & TDD
  <br/> :computer: &nbsp; Minha stack: Java, JavaWeb, EJB, JPA, Maven, Hibernate, JavaScript, Node.JS & Angular.JS
