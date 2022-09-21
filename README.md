@@ -1,4 +1,4 @@
-<!--img width="auto" src="https://github.com/Julianamcs/julianamcs/blob/3769b4363d8a49c6e481cd85b7b3af0ae9c56bd6/Img/bg.jpg"-->
+<img width="900" height="200" src="https://github.com/Julianamcs/julianamcs/blob/master/Img/svg/jmcs.svg"/>
 
 ## Oi eu sou a Juliana Maciel!👋
 
