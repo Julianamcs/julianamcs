@@ -5,7 +5,7 @@
 Sou apaixonada por resolver problemas utilizando a programação.
 Sou uma FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou Disponível para Contratações
+ #### :rocket:  &nbsp; Estou Disponível para Contratações
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos Back-end usando Java
  <br/> :blush: &nbsp; Posso te ajudar com Java, EJB, JPA, Maven, Hibernate, Spring, Data/Boot & TDD
  <br/> :computer: &nbsp; Minha stack: Java, JavaWeb, EJB, JPA, Maven, Hibernate, Spring, Spring Data, Spring Boot, TDD, JavaScript, React.JS, Node.JS & Angular.JS
