@@ -16,7 +16,6 @@ Sou uma FullStack Developer :computer:
 
 
 <br/><br/>  
-
 <div align="center">
   <a href="https://github.com/Julianamcs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianamcs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -31,9 +30,9 @@ Sou uma FullStack Developer :computer:
   <img align="center" alt="JMCS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JMCS-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="JMCS-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
+  Emoji README: https://github.com/ikatyang/emoji-cheat-sheet
   <div-->
  
   <br/><br/>  
 
- Emoji README: https://github.com/ikatyang/emoji-cheat-sheet
+ 
