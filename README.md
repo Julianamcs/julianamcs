@@ -21,17 +21,21 @@ Sou uma FullStack Developer :computer:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianamcs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianamcs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<!--div style="display: inline_block"><br>
-  <img align="center" alt="JMCS-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JMCS-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="JMCS-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="JMCS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
+  <img align="center" alt="JMCS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+ <img align="center" alt="JMCS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain.svg">
+ <img align="center" alt="JMCS-HTML" height="30" width="40" src="https://www.svgrepo.com/show/355152/oracle.svg">
+ <img align="center" alt="JMCS-HTML" height="30" width="40" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg">
   <img align="center" alt="JMCS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JMCS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JMCS-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="JMCS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JMCS-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="JMCS-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="JMCS-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  Emoji README: https://github.com/ikatyang/emoji-cheat-sheet
-  <div-->
+  <div>
+
+<!--div>Emoji README: https://github.com/ikatyang/emoji-cheat-sheet</div-->
  
   <br/><br/>  
 
