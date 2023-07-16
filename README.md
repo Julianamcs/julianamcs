@@ -37,6 +37,5 @@ Sou uma FullStack Developer :computer:
 
 <!--div>Emoji README: https://github.com/ikatyang/emoji-cheat-sheet</div-->
  
-  <br/><br/>  
 
  
